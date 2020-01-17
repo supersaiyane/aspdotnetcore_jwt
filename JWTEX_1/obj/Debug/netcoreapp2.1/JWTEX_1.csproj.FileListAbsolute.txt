@@ -1,0 +1,13 @@
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\bin\Debug\netcoreapp2.1\JWTEX_1.deps.json
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\bin\Debug\netcoreapp2.1\JWTEX_1.runtimeconfig.json
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\bin\Debug\netcoreapp2.1\JWTEX_1.runtimeconfig.dev.json
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\bin\Debug\netcoreapp2.1\JWTEX_1.dll
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\bin\Debug\netcoreapp2.1\JWTEX_1.pdb
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.csproj.CoreCompileInputs.cache
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.RazorAssemblyInfo.cache
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.RazorAssemblyInfo.cs
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.AssemblyInfoInputs.cache
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.AssemblyInfo.cs
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.RazorTargetAssemblyInfo.cache
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.dll
+C:\Users\gurpreet.singh\source\repos\JWTEX_1\JWTEX_1\obj\Debug\netcoreapp2.1\JWTEX_1.pdb
